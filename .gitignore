@@ -1,0 +1,6 @@
+data/
+data/
+output/
+*.csv
+*.png
+*.html
