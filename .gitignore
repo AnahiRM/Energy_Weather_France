@@ -1,6 +1,2 @@
-data/
-data/
-output/
-*.csv
-*.png
-*.html
+data/consommation-quotidienne-brute-regionale.csv
+output/Applied_ML_SL_Final.html
