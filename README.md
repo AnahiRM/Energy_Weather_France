@@ -68,8 +68,8 @@ Energy_Weather_France/
 │  ├── france_energy_meteo_daily.csv
 │  ├── POPULATION_MUNICIPALE_REGION_FRANCE.xlsx
 │
-├── Data Cleaning.ipynb
-├── ML Analysis.ipynb
+├── 01_data_cleaning.ipynb
+├── 02_modeling.ipynb
 │
 ├── output/
 └── README.md
