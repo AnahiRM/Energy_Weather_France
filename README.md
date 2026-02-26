@@ -1,7 +1,7 @@
 # 🌍 Energy Consumption under Changing Weather  
 ### A Machine Learning Case Study of French Energy Demand  
 
-**Authors:** Robert Campbell Powers, Anahí Reyes Miguel  
+**Authors:** Anahí Reyes Miguel and Robert Campbell Powers
 
 This project builds machine learning models to predict **daily regional electricity consumption per capita in France** using weather, demographic, and calendar data.  
 It evaluates multiple models to understand the **non-linear relationship between weather patterns and energy demand** and to support energy planning in a renewable-transition context.
